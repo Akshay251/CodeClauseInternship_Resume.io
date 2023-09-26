@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CodeClauseInternship_Resume.io/static/css/main.aca182ca.css",
+    "main.js": "/CodeClauseInternship_Resume.io/static/js/main.88465838.js",
+    "static/media/profile.png": "/CodeClauseInternship_Resume.io/static/media/profile.e87a6a356949cd153f22.png",
+    "index.html": "/CodeClauseInternship_Resume.io/index.html",
+    "main.aca182ca.css.map": "/CodeClauseInternship_Resume.io/static/css/main.aca182ca.css.map",
+    "main.88465838.js.map": "/CodeClauseInternship_Resume.io/static/js/main.88465838.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aca182ca.css",
+    "static/js/main.88465838.js"
+  ]
+}
